@@ -1,0 +1,14 @@
+Claude Falguière
+Information source by topic
+
+I'm interested in text categorization and visualization
+
+As the tweet topic of each tweet is already well defined, my goal will be to determine the kind of tweet (for instance news, chat with friends, announcement, information, device output ...) and find relevant information sources for a topic. 
+
+Implementation:
+Statistics/Data Mining : my preferred tools are Mahout and IncanteR in Clojure. I'm new to Python, however I may use Python (SciKit, SciPy, Pandas ?) as a try.
+Database : I will use Elastic Search to store results and Kibana as data exploration tool/visualization
+Visualization : Kibana and D3 for custom visualizations
+
+I will provide a description of the techniques, analysis results, and source of the analysis programs.
+
