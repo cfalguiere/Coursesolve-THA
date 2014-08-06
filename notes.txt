@@ -1,0 +1,31 @@
+
+
+
+Terms / N-grams and graph based
+
+Text classification
+ Naïve Bayes, Support Vector Machine, a
+
+
+Topic Models
+Topic models work by discovering patterns of word use and connecting documents that exhibit similar patterns. 
+Latent Dirichlet Allocation (LDA) -> topic to profile
+
+Latent semantic indexing 
+
+trending topic
+
+In text-based classification
+method, we construct word vectors with trending topic defi-
+nition and tweets, and the commonly used tf-idf weights are
+used to classify the topics using a Naive Bayes Multinomial
+classifier.
+
+In network-based classification method, we identify
+top 5 similar topics for a given topic based on the number of
+common influential users. 
+
+The categories of the similar topics
+and the number of common influential users between the given
+topic and its similar topics are used to classify the given topic
+using a C5.0 decision tree learner. 
